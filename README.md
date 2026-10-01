@@ -26,37 +26,37 @@ Analyze job-posting data to identify trends in job demand, salaries, required sk
 
 The dataset consists of 10,000 rows and 9 columns as given below.
 
-*Job title
-*Industry
-*Location
-*Salary
-*Required skills
-*Remote option
-*Company size
-*Posting date
+* Job title
+* Industry
+* Location
+* Salary
+* Required skills
+* Remote option
+* Company size
+* Posting date
 
 ====================================================
 
 ## Tools:
 
-*SQL
-*MySQL/phpMyAdmin
-*Power Query
-*Power BI
-*GitHub
+* SQL
+* MySQL/phpMyAdmin
+* Power Query
+* Power BI
+* GitHub
 
 ====================================================
 
 ## Analysis criterias:
 
-*Job posting distribution by industry
-*Salary patterns
-*Remote-work availability
-*Company size
-*Geographic distribution
-*Required skills
-*Job titles
-*Posting trends over time
+* Job posting distribution by industry
+* Salary patterns
+* Remote-work availability
+* Company size
+* Geographic distribution
+* Required skills
+* Job titles
+* Posting trends over time
 
 ====================================================
 
@@ -64,10 +64,10 @@ The dataset consists of 10,000 rows and 9 columns as given below.
 
 Power BI dashboard contains interactive slicers for the followings.
 
-*Industry
-*Location
-*Remote option
-*Company size
+* Industry
+* Location
+* Remote option
+* Company size
 
 ====================================================
 
